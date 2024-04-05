@@ -8,7 +8,7 @@ import {
 } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js";
 
 const appSettings = {
-  databaseURL: "https://bestreads-b1ce8-default-rtdb.firebaseio.com/",
+  databaseURL: "https://bestread-b1ce8-default-rtdb.firebaseio.com/",
 };
 
 //connect app to firebase
